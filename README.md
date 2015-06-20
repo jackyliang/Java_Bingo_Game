@@ -10,8 +10,8 @@ A simple single-player Bingo game written in Java for Drexel's ECE 203 Introduct
     
 ## To run
 
-    Load the classes up to your favorite IDE and just click run. This was before I learned about compiling and running with Ant in the CLI
+Load the classes up to your favorite IDE and just click run. This was before I learned about compiling and running with Ant in the CLI
     
 ## License
 
-    This is school code, so if you're a student and this is your school assignment, I highly recommend you do it yourself and not copy the code, both for legal, moral, and ethical reasons. But hey, I'm not stopping you!
+This is school code, so if you're a student and this is your school assignment, I highly recommend you do it yourself and not copy the code, both for legal, moral, and ethical reasons. But hey, I'm not stopping you!
